@@ -1,104 +1,71 @@
+<div align="center">
+
 # ⚡ ABHIJEET
 
-### ECE • EMBEDDED SYSTEMS • TELECOMMUNICATIONS • ELECTRONICS
+### ECE • EMBEDDED SYSTEMS • TELECOMMUNICATIONS
 
-> Building things from the **transistor level to the network level.**
+**Building hardware. Writing software. Understanding the signal.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-abhijeet--ec-181717?style=for-the-badge&logo=github)](https://github.com/abhijeet-ec)
+
+</div>
 
 ---
 
 ## 🧭 About Me
 
-I'm an Electronics & Communication Engineering student interested in building and understanding real-world technology.
+I'm an Electronics & Communication Engineering student interested in
+**embedded systems, telecommunications, electronics and software**.
 
-My main interests are:
-
-- ⚡ Embedded Systems
-- 📡 Telecommunications & Wireless
-- 🔌 Electronics & Digital Logic
-- 💻 C / C++ / Python
-- 🎛️ Audio & DSP
-- 🐧 Linux
-
-I like learning by **building, testing, breaking, and rebuilding things.**
+I learn by building things from the fundamentals — from **digital logic and
+microcontrollers to communication systems and Linux**.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ What I Work With
 
-### ⚡ Embedded
-`ESP32` `STM32` `Arduino` `Embedded C`
-
-### 📡 Telecommunications
-`RF` `LoRa` `Networking` `Wireless Communication`
-
-### 🔌 Electronics
-`KiCad` `Digital Logic` `Analog Electronics` `PCB Design`
-
-### 💻 Programming
-`C` `C++` `Python` `Verilog`
-
-### 🎛️ Audio
-`DSP` `DAC` `Audio Electronics` `Synthesizers`
-
-### 🐧 Linux
-`Debian` `KDE` `Git` `GitHub` `Bash` `Fish`
+| Area | Technologies |
+|---|---|
+| 🔌 Embedded | ESP32 • STM32 • Arduino • Embedded C |
+| 📡 Telecom | RF • LoRa • Networking • Wireless |
+| ⚙️ Electronics | KiCad • Digital Logic • Analog • PCB |
+| 💻 Programming | C • C++ • Python • Verilog |
+| 🎛️ Audio | DSP • DAC • Audio Electronics |
+| 🐧 Linux | Debian • Git • GitHub • Fish |
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🐄 ESP32-CAM Cattle Detection
-Computer-vision based cattle detection system using an ESP32-CAM.
 
-**Tech:** `ESP32-CAM` `Edge AI` `Embedded C` `Computer Vision`
+Embedded computer-vision system using an ESP32-CAM.
 
----
-
-### 📡 Telecommunications Projects
-
-Building and experimenting with:
-
-- RF systems
-- LoRa communication
-- Wireless links
-- Networking
-- Digital communication
+`ESP32-CAM` `Embedded C` `Edge AI` `Computer Vision`
 
 ---
 
-### 🔌 Digital Computer / CPU
+### 📡 Telecommunications
 
-Exploring computer architecture from the fundamentals:
+Experiments and projects involving:
 
-`Logic Gates → Adders → Registers → Counters → RAM → ALU → CPU`
-
----
-
-### 🎛️ Audio Electronics
-
-Experimenting with:
-
-- DACs
-- Headphone amplifiers
-- DSP
-- Synthesizers
-- Audio hardware
+`RF` `LoRa` `Wireless Communication` `Networking`
 
 ---
 
-## 📚 Currently Learning
+### 🔌 Digital Computer
+
+Exploring computer architecture from the ground up:
 
 ```text
-C
-│
-├── Embedded C
-│
-├── STM32
-│
-├── Digital Electronics
-│
-├── Telecommunications
-│
-├── RF / Wireless
-│
-└── Computer Architecture
+Logic Gates
+     ↓
+Adders
+     ↓
+Registers
+     ↓
+ALU
+     ↓
+RAM
+     ↓
+CPU
