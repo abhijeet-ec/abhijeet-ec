@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.o
+*.bin
+*.elf
+.DS_Store
+.idea/
+.vscode/
+arduino_build_*/
+build/
+secrets.h
+credentials.h
